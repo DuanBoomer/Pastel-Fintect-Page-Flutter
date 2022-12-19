@@ -1,16 +1,12 @@
 # fintechpastel
 
-A new Flutter project.
+A fintech home page made with pastel colors and flutter
 
-## Getting Started
+## Some Screen Shots
 
-This project is a starting point for a Flutter application.
+![2022-12-19](https://user-images.githubusercontent.com/75297171/208490822-e38e970a-7c59-4852-b45b-bc5d9a8dd4a6.png)
 
-A few resources to get you started if this is your first Flutter project:
+###The Loading bars beneath "Credit Limit" and "Cash Limit" are animated bars.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2022-12-19](https://user-images.githubusercontent.com/75297171/208491400-d0a38a65-07f6-42e5-a325-dffc1339b36f.png)
+##These
