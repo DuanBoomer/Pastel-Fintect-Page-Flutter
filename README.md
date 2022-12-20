@@ -9,5 +9,3 @@ A fintech home page made with pastel colors and flutter
 The Loading bars beneath "Credit Limit" and "Cash Limit" are animated bars.
 
 ![2022-12-19](https://user-images.githubusercontent.com/75297171/208491400-d0a38a65-07f6-42e5-a325-dffc1339b36f.png)
-
-These
